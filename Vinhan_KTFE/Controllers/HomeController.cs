@@ -32,5 +32,8 @@ namespace Vinhan_KTFE.Controllers
 
             return View();
         }
+        public interface IActionResult 
+        {
+        }
     }
 }
